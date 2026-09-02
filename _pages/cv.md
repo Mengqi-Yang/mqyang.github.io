@@ -18,6 +18,8 @@ Education
 Skills
 ======
 * Finite Element Coding for Multibody System Dynamics
-* Reduced Order Modelling for Dynamic Problems
-  * Data-Driven Variational Inference for Parametric Nonlinear Problems
+* Reduced Order Modelling for Nonlinear Dynamics
+  * Data-Driven Non-Intrusive ROM for Parametric Problems via Variational Inference
+  * Basic Proper Orthogonal Decomposition (POD) and Proper Generalized Decomposition (PGD) Algorithm
+  * Physic-Driven Substructure and Hyper-Element ROM for Floating Frame of Reference 
 * Fluid-Structure Interaction
